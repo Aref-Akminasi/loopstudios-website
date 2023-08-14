@@ -1,4 +1,4 @@
-# Loopstudios website
+# Loopstudios Website
 
 This is the loopstudios website project from the course 'Tailwind CSS'
 
